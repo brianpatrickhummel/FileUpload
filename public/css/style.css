@@ -1,0 +1,17 @@
+@font-face{
+  font-family: 'GatsbyFLF-Bold';
+  src: url(../fonts/GatsbyFLF-Bold.ttf);
+}
+
+.dz-message {
+  font-family: 'GatsbyFLF-Bold';
+  font-size: 30px;
+  letter-spacing: 3px;
+  text-indent: 1.5px;
+}
+
+#dropzoneButton {
+  display: block;
+  margin: 0 auto;
+  margin-top:150px;
+}
